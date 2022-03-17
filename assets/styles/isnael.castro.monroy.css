@@ -1,0 +1,28 @@
+body{
+background-color: black;
+color: #fff;
+}
+
+article{
+    background-color: rgb(44, 43, 43);
+    padding: 1.5rem;
+}
+.resaltado{
+color: yellow;    
+}                                                           
+#Spider_man{
+text-align: center; 
+font-size: 3rem;
+}
+
+#Video_juegos{
+ text-align: center;
+
+font-size: 3rem;
+
+}
+.bloque {
+    width:100px ;
+    height:100px ;
+    background-color: blue;
+}
